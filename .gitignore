@@ -1,0 +1,4 @@
+tmp
+kvstore
+*.sock
+.DS_Store
